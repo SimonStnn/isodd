@@ -17,3 +17,11 @@ func main() {
     fmt.Println(isodd.IsOdd(4)) // Output: false
 }
 ```
+
+## Installation
+
+To install the `isodd` package, you can use `go get`:
+
+```bash
+go get github.com/SimonStnn/isodd
+```
