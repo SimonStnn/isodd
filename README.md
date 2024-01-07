@@ -1,3 +1,19 @@
 # isodd
 
 A Go package that checks if a given value is odd.
+
+## Usage
+
+Here's how you can use the `IsOdd` function:
+
+```go
+import (
+    "fmt"
+    "github.com/SimonStnn/isodd"
+)
+
+func main() {
+    fmt.Println(isodd.IsOdd(5)) // Output: true
+    fmt.Println(isodd.IsOdd(4)) // Output: false
+}
+```
