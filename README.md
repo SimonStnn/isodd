@@ -25,3 +25,9 @@ To install the `isodd` package, you can use `go get`:
 ```bash
 go get github.com/SimonStnn/isodd
 ```
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+If you have any suggestions or improvements, please open an issue to discuss them. I appreciate all feedback and ideas!
